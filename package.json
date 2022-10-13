@@ -7,9 +7,9 @@
     "author": "",
     "license": "ISC",
     "description": "Can log \"hello world\" and \"goodbye world\" to the console!",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
     "files": [
-        "/dist"
+        "/lib"
     ]
 }
