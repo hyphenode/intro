@@ -1,7 +1,8 @@
 {
-    "name": "@adoublef/core",
-    "version": "1.0.0",
+    "name": "@adoublef/intro",
+    "version": "0.0.1",
     "scripts": {
+        "build": "tsc && npm pack",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
